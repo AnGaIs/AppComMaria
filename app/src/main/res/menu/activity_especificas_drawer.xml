@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+        android:id="@+id/nav_menu1"
+        android:icon="@drawable/oracaop"
+        android:title="A Vossa Proteção" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/home"
+            android:title="Adoro Te Devote" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/almas"
+            android:title="Almas" />
+
+        <item
+            android:id="@+id/nav_menu4"
+            android:icon="@drawable/almas"
+            android:title="Ângelus" />
+
+
+        <item
+            android:id="@+id/nav_menu5"
+            android:icon="@drawable/oracaop"
+            android:title="Antes das Refeições" />
+
+
+        <item
+            android:id="@+id/nav_menu6"
+            android:icon="@drawable/oracaop"
+            android:title="Após as Refeições" />
+
+        <item
+            android:id="@+id/nav_menu7"
+            android:icon="@drawable/santa"
+            android:title="As Quinze Orações" />
+
+        <item
+            android:id="@+id/nav_menu8"
+            android:icon="@drawable/cruz"
+            android:title="Ato de Contrição" />
+
+        <item
+            android:id="@+id/nav_menu9"
+            android:icon="@drawable/home"
+            android:title="Ato de Louvor" />
+
+        <item
+            android:id="@+id/nav_menu10"
+            android:icon="@drawable/cristo"
+            android:title="Benção S.Sacramento" />
+
+        <item
+            android:id="@+id/nav_menu11"
+            android:icon="@drawable/santo"
+            android:title="Benedictus" />
+
+        <item
+            android:id="@+id/nav_menu12"
+            android:icon="@drawable/santo"
+            android:title="Cântico de Simeão" />
+        <item
+            android:id="@+id/nav_menu13"
+            android:icon="@drawable/home"
+            android:title="Confissão" />
+
+        <item
+            android:id="@+id/nav_menu14"
+            android:icon="@drawable/coracaoj"
+            android:title="Coroinha S.C.Jesus" />
+
+        <item
+            android:id="@+id/nav_menu15"
+            android:icon="@drawable/coracaoj"
+            android:title="Coroinha N.Senhora" />
+
+        <item
+            android:id="@+id/nav_menu16"
+            android:icon="@drawable/oracaop"
+            android:title="C.Niceno-Constantinopolitano" />
+
+
+        <item
+            android:id="@+id/nav_menu17"
+            android:icon="@drawable/cruz"
+            android:title="Diente do Crucifixo" />
+
+        <item
+            android:id="@+id/nav_menu18"
+            android:icon="@drawable/espiritosanto"
+            android:title="Dons Espírito Santo" />
+
+        <item
+            android:id="@+id/nav_menu19"
+            android:icon="@drawable/oracaop"
+            android:title="Dos Esposos" />
+
+        <item
+            android:id="@+id/nav_menu20"
+            android:icon="@drawable/oracaop"
+            android:title="Emfermidade" />
+
+
+        <item
+            android:id="@+id/nav_menu21"
+            android:icon="@drawable/espiritosanto"
+            android:title="Espírito Santo" />
+        <item
+            android:id="@+id/nav_menu22"
+            android:icon="@drawable/home"
+            android:title="JMJ 2013 Oração" />
+        <item
+            android:id="@+id/nav_menu23"
+            android:icon="@drawable/oracaop"
+            android:title="L.Divina Misericórdia" />
+
+        <item
+            android:id="@+id/nav_menu24"
+            android:icon="@drawable/oracaop"
+            android:title="L.da Humildade" />
+
+
+        <item
+            android:id="@+id/nav_menu25"
+            android:icon="@drawable/comela"
+            android:title="L.Nossa Senhora" />
+
+        <item
+            android:id="@+id/nav_menu26"
+            android:icon="@drawable/santo"
+            android:title="L.São José" />
+
+
+        <item
+            android:id="@+id/nav_menu27"
+            android:icon="@drawable/santo"
+            android:title="L.Todos os Santos" />
+
+        <item
+            android:id="@+id/nav_menu28"
+            android:icon="@drawable/maosensa"
+            android:title="L.PS de Jesus" />
+
+        <item
+            android:id="@+id/nav_menu29"
+            android:icon="@drawable/coracaoj"
+            android:title="L.SC de Jesus" />
+
+        <item
+            android:id="@+id/nav_menu30"
+            android:icon="@drawable/espiritosanto"
+            android:title="L.Pelas Almas" />
+
+
+        <item
+            android:id="@+id/nav_menu31"
+            android:icon="@drawable/comela"
+            android:title="Lembrai-vos" />
+        <item
+            android:id="@+id/nav_menu32"
+            android:icon="@drawable/oracaop"
+            android:title="Levanta-se Deus" />
+        <item
+            android:id="@+id/nav_menu33"
+            android:icon="@drawable/comela"
+            android:title="Magnificat" />
+
+        <item
+            android:id="@+id/nav_menu34"
+            android:icon="@drawable/maosensa"
+            android:title="Mãos Ensanguentadas" />
+
+
+        <item
+            android:id="@+id/nav_menu35"
+            android:icon="@drawable/cristo"
+            android:title="Maria Passa na Frente" />
+
+        <item
+            android:id="@+id/nav_menu36"
+            android:icon="@drawable/oracaop"
+            android:title="Musícos" />
+
+
+        <item
+            android:id="@+id/nav_menu37"
+            android:icon="@drawable/oracaop"
+            android:title="Oração da Manhã" />
+
+        <item
+            android:id="@+id/nav_menu38"
+            android:icon="@drawable/oracaop"
+            android:title="Oração da Noite" />
+
+        <item
+            android:id="@+id/nav_menu39"
+            android:icon="@drawable/oracaop"
+            android:title="Os Sete Pai Nossos" />
+
+        <item
+            android:id="@+id/nav_menu40"
+            android:icon="@drawable/oracaop"
+            android:title="Pai Eterno" />
+
+
+        <item
+            android:id="@+id/nav_menu41"
+            android:icon="@drawable/oracaop"
+            android:title="Para Família" />
+        <item
+            android:id="@+id/nav_menu42"
+            android:icon="@drawable/oracaop"
+            android:title="Para os Estudos" />
+        <item
+            android:id="@+id/nav_menu43"
+            android:icon="@drawable/oracaop"
+            android:title="Para os Casais" />
+
+        <item
+            android:id="@+id/nav_menu44"
+            android:icon="@drawable/home"
+            android:title="Para os Sacerdotes" />
+
+
+        <item
+            android:id="@+id/nav_menu45"
+            android:icon="@drawable/oracaop"
+            android:title="Para Viagem" />
+
+        <item
+            android:id="@+id/nav_menu46"
+            android:icon="@drawable/oracaop"
+            android:title="Pelos Falecidos" />
+
+
+        <item
+            android:id="@+id/nav_menu47"
+            android:icon="@drawable/oracaop"
+            android:title="Pelos Filhos" />
+
+        <item
+            android:id="@+id/nav_menu48"
+            android:icon="@drawable/oracaop"
+            android:title="Pelos Necessitados" />
+
+        <item
+            android:id="@+id/nav_menu49"
+            android:icon="@drawable/oracaop"
+            android:title="Pelos Pais" />
+
+        <item
+            android:id="@+id/nav_menu50"
+            android:icon="@drawable/almas"
+            android:title="Quaresma de S.Miguel" />
+
+
+        <item
+            android:id="@+id/nav_menu51"
+            android:icon="@drawable/comela"
+            android:title="Rainha do Céu" />
+        <item
+            android:id="@+id/nav_menu52"
+            android:icon="@drawable/coracaoj"
+            android:title="Reparação S.Sacramento" />
+        <item
+            android:id="@+id/nav_menu53"
+            android:icon="@drawable/cruz"
+            android:title="Salve Cruz" />
+
+        <item
+            android:id="@+id/nav_menu54"
+            android:icon="@drawable/cruz"
+            android:title="Santo Lenho" />
+
+
+        <item
+            android:id="@+id/nav_menu55"
+            android:icon="@drawable/oracaop"
+            android:title="Serenidade" />
+
+        <item
+            android:id="@+id/nav_menu56"
+            android:icon="@drawable/comela"
+            android:title="Socorrei Maria" />
+
+
+        <item
+            android:id="@+id/nav_menu57"
+            android:icon="@drawable/cristo"
+            android:title="Te Deum" />
+
+        <item
+            android:id="@+id/nav_menu58"
+            android:icon="@drawable/espiritosanto"
+            android:title="Veni Creator" />
+
+        <item
+            android:id="@+id/nav_menu59"
+            android:icon="@drawable/cruz"
+            android:title="Via Sacra" />
+
+        <item
+            android:id="@+id/nav_menu60"
+            android:icon="@drawable/espiritosanto"
+            android:title="Visita S.Sacramento" />
+
+    </group>
+
+
+</menu>

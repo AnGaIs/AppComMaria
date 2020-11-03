@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/comela"
+            android:title="Ave Maria" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/coracaoj"
+            android:title="Cordeiro de Deus" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/home"
+            android:title="Credo" />
+
+        <item
+            android:id="@+id/nav_menu4"
+            android:icon="@drawable/cristo"
+            android:title="Glória a Deus nas Alturas" />
+
+
+        <item
+            android:id="@+id/nav_menu5"
+            android:icon="@drawable/cristo"
+            android:title="Glória ao Pai" />
+
+        <item
+            android:id="@+id/nav_menu6"
+            android:icon="@drawable/oracaop"
+            android:title="Pai Nosso" />
+
+
+        <item
+            android:id="@+id/nav_menu7"
+            android:icon="@drawable/comela"
+            android:title="Salve Rainha" />
+
+        <item
+            android:id="@+id/nav_menu8"
+            android:icon="@drawable/almas"
+            android:title="Santo Anjo" />
+
+        <item
+            android:id="@+id/nav_menu9"
+            android:icon="@drawable/cruz"
+            android:title="Sinal da Cruz" />
+
+        <item
+            android:id="@+id/nav_menu10"
+            android:icon="@drawable/espiritosanto"
+            android:title="Vinde Espírito Santo" />
+
+    </group>
+
+
+</menu>

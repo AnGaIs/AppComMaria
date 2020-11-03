@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820008190620",
+    "firebase_url": "https://commaria-01.firebaseio.com",
+    "project_id": "commaria-01",
+    "storage_bucket": "commaria-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820008190620:android:309a627dd1a362ab",
+        "android_client_info": {
+          "package_name": "com.umservodemaria.appcommaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820008190620-ld1a1m9hkkjtkvc5v0c5dgou6fg8nc1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.umservodemaria.appcommaria",
+            "certificate_hash": "260878c7437eb23fa244c0a80912918629b8dec3"
+          }
+        },
+        {
+          "client_id": "820008190620-1ehmtonra0c96e7jsnd0bpsbel3jij82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauu9wiLA4142p8vA7CHtbd3xB_CaZwVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820008190620-1ehmtonra0c96e7jsnd0bpsbel3jij82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

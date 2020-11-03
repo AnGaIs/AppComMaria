@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/almas"
+            android:title="Anjo da Guarda" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/cristo"
+            android:title="Beato Carlos" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/oracaop"
+            android:title="Divino Pai Eterno" />
+
+        <item
+            android:id="@+id/nav_menu4"
+            android:icon="@drawable/comela"
+            android:title="Mãe de Misericórdia" />
+
+
+        <item
+            android:id="@+id/nav_menu5"
+            android:icon="@drawable/oracaop"
+            android:title="Menino Jesus de Praga" />
+
+
+        <item
+            android:id="@+id/nav_menu6"
+            android:icon="@drawable/medalhamilagrosa"
+            android:title="Nsa M.Milagrosa" />
+
+        <item
+            android:id="@+id/nav_menu7"
+            android:icon="@drawable/comela"
+            android:title="Nsa Auxiliadora" />
+
+        <item
+            android:id="@+id/nav_menu8"
+            android:icon="@drawable/comela"
+            android:title="Nsa da Cabeça" />
+
+        <item
+            android:id="@+id/nav_menu9"
+            android:icon="@drawable/comela"
+            android:title="Nsa Conceição" />
+
+        <item
+            android:id="@+id/nav_menu10"
+            android:icon="@drawable/comela"
+            android:title="Nsa da Defesa" />
+
+        <item
+            android:id="@+id/nav_menu11"
+            android:icon="@drawable/comela"
+            android:title="Nsa da Paz" />
+
+        <item
+            android:id="@+id/nav_menu12"
+            android:icon="@drawable/comela"
+            android:title="Nsa da Saúde" />
+        <item
+            android:id="@+id/nav_menu13"
+            android:icon="@drawable/comela"
+            android:title="Nsa das Dores" />
+
+        <item
+            android:id="@+id/nav_menu14"
+            android:icon="@drawable/comela"
+            android:title="Nsa das Graças" />
+
+        <item
+            android:id="@+id/nav_menu15"
+            android:icon="@drawable/comela"
+            android:title="Nsa Casaluce" />
+
+        <item
+            android:id="@+id/nav_menu16"
+            android:icon="@drawable/comela"
+            android:title="Nsa de Fatima" />
+
+
+        <item
+            android:id="@+id/nav_menu17"
+            android:icon="@drawable/comela"
+            android:title="Nsa Guadalupe" />
+
+        <item
+            android:id="@+id/nav_menu18"
+            android:icon="@drawable/comela"
+            android:title="Nsa de Lourdes" />
+
+        <item
+            android:id="@+id/nav_menu19"
+            android:icon="@drawable/comela"
+            android:title="Nsa de Schoenstatt" />
+
+        <item
+            android:id="@+id/nav_menu20"
+            android:icon="@drawable/comela"
+            android:title="Nsa D.de Nós" />
+
+
+        <item
+            android:id="@+id/nav_menu21"
+            android:icon="@drawable/comela"
+            android:title="Nsa do Bom Parto" />
+        <item
+            android:id="@+id/nav_menu22"
+            android:icon="@drawable/comela"
+            android:title="Nsa do Bom Remédio" />
+        <item
+            android:id="@+id/nav_menu23"
+            android:icon="@drawable/medalhamilagrosa"
+            android:title="Nsa do Carmo" />
+
+        <item
+            android:id="@+id/nav_menu24"
+            android:icon="@drawable/comela"
+            android:title="Nsa do Desterro" />
+
+
+        <item
+            android:id="@+id/nav_menu25"
+            android:icon="@drawable/comela"
+            android:title="Nsa P.Socorro" />
+
+        <item
+            android:id="@+id/nav_menu26"
+            android:icon="@drawable/comela"
+            android:title="Nsa dos Navegantes" />
+
+
+        <item
+            android:id="@+id/nav_menu27"
+            android:icon="@drawable/cristo"
+            android:title="Pastorzinhos de Fátima" />
+
+        <item
+            android:id="@+id/nav_menu28"
+            android:icon="@drawable/santa"
+            android:title="Santa Ana" />
+
+        <item
+            android:id="@+id/nav_menu29"
+            android:icon="@drawable/santa"
+            android:title="Santa Bárbara" />
+
+        <item
+            android:id="@+id/nav_menu30"
+            android:icon="@drawable/santa"
+            android:title="Santa Clara" />
+
+
+        <item
+            android:id="@+id/nav_menu31"
+            android:icon="@drawable/santa"
+            android:title="Santa Edwiges" />
+        <item
+            android:id="@+id/nav_menu32"
+            android:icon="@drawable/santa"
+            android:title="Sta Joana d'Arc" />
+        <item
+            android:id="@+id/nav_menu33"
+            android:icon="@drawable/santa"
+            android:title="Sta J.Bakhita" />
+
+        <item
+            android:id="@+id/nav_menu34"
+            android:icon="@drawable/santa"
+            android:title="Sta Luzia" />
+
+
+        <item
+            android:id="@+id/nav_menu35"
+            android:icon="@drawable/santa"
+            android:title="Sta Mônica" />
+
+        <item
+            android:id="@+id/nav_menu36"
+            android:icon="@drawable/santa"
+            android:title="Sta Rita de Cássia" />
+
+
+        <item
+            android:id="@+id/nav_menu37"
+            android:icon="@drawable/santa"
+            android:title="Sta Terezinha das Rosas" />
+
+        <item
+            android:id="@+id/nav_menu38"
+            android:icon="@drawable/santa"
+            android:title="Sta Terezinha" />
+
+        <item
+            android:id="@+id/nav_menu39"
+            android:icon="@drawable/santo"
+            android:title="Sto Afonso M.Ligório" />
+
+        <item
+            android:id="@+id/nav_menu40"
+            android:icon="@drawable/santo"
+            android:title="Sto Afonso M.Ligório II" />
+
+
+        <item
+            android:id="@+id/nav_menu41"
+            android:icon="@drawable/santo"
+            android:title="Sto Agostinho" />
+        <item
+            android:id="@+id/nav_menu42"
+            android:icon="@drawable/santo"
+            android:title="Sto Antonio" />
+        <item
+            android:id="@+id/nav_menu43"
+            android:icon="@drawable/santo"
+            android:title="Sto Antonio II" />
+
+        <item
+            android:id="@+id/nav_menu44"
+            android:icon="@drawable/santo"
+            android:title="Sto Expedito" />
+
+
+        <item
+            android:id="@+id/nav_menu45"
+            android:icon="@drawable/santo"
+            android:title="Sto Inácio de Loyola" />
+
+        <item
+            android:id="@+id/nav_menu46"
+            android:icon="@drawable/santo"
+            android:title="São Benedito" />
+
+
+        <item
+            android:id="@+id/nav_menu47"
+            android:icon="@drawable/santo"
+            android:title="São Bento" />
+
+        <item
+            android:id="@+id/nav_menu48"
+            android:icon="@drawable/santo"
+            android:title="São Brás" />
+
+        <item
+            android:id="@+id/nav_menu49"
+            android:icon="@drawable/santo"
+            android:title="São Cristovão" />
+
+        <item
+            android:id="@+id/nav_menu50"
+            android:icon="@drawable/santo"
+            android:title="S Francisco de Assis" />
+
+
+        <item
+            android:id="@+id/nav_menu51"
+            android:icon="@drawable/almas"
+            android:title="São Gabriel Arcanjo" />
+        <item
+            android:id="@+id/nav_menu52"
+            android:icon="@drawable/santo"
+            android:title="São João Batista" />
+        <item
+            android:id="@+id/nav_menu53"
+            android:icon="@drawable/santo"
+            android:title="S João Bosco" />
+
+        <item
+            android:id="@+id/nav_menu54"
+            android:icon="@drawable/santo"
+            android:title="São Joaquim" />
+
+
+        <item
+            android:id="@+id/nav_menu55"
+            android:icon="@drawable/santo"
+            android:title="São Jorge" />
+
+        <item
+            android:id="@+id/nav_menu56"
+            android:icon="@drawable/santo"
+            android:title="São José" />
+
+
+        <item
+            android:id="@+id/nav_menu57"
+            android:icon="@drawable/cristo"
+            android:title="S José Escrivá" />
+
+        <item
+            android:id="@+id/nav_menu58"
+            android:icon="@drawable/santo"
+            android:title="S Judas Tadeu" />
+
+        <item
+            android:id="@+id/nav_menu59"
+            android:icon="@drawable/santo"
+            android:title="São Lazaro" />
+
+        <item
+            android:id="@+id/nav_menu60"
+            android:icon="@drawable/almas"
+            android:title="S Miguel Arcanjo" />
+
+
+        <item
+            android:id="@+id/nav_menu61"
+            android:icon="@drawable/santo"
+            android:title="São Patrício" />
+        <item
+            android:id="@+id/nav_menu62"
+            android:icon="@drawable/santo"
+            android:title="São Pelegrino" />
+        <item
+            android:id="@+id/nav_menu63"
+            android:icon="@drawable/santo"
+            android:title="S Pio de Pietrelcina" />
+
+        <item
+            android:id="@+id/nav_menu64"
+            android:icon="@drawable/almas"
+            android:title="S Rafael Arcanjo" />
+
+
+        <item
+            android:id="@+id/nav_menu65"
+            android:icon="@drawable/oracaop"
+            android:title="São Sebastião" />
+
+        <item
+            android:id="@+id/nav_menu66"
+            android:icon="@drawable/comela"
+            android:title="S Vicente de Paulo" />
+
+
+        <item
+            android:id="@+id/nav_menu67"
+            android:icon="@drawable/cristo"
+            android:title="Senhor do Bonfim" />
+
+    </group>
+
+
+</menu>

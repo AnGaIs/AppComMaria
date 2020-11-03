@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/mconsagracoesazul"
+            android:title="Coração de Jesus" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/oracaop"
+            android:title="Divino Pai Eterno" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/mconsagracoesazul"
+            android:title="Imaculado Coração de Maria" />
+
+        <item
+            android:id="@+id/nav_menu4"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora Aparecida" />
+
+
+        <item
+            android:id="@+id/nav_menu5"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora das Mercês" />
+
+        <item
+            android:id="@+id/nav_menu6"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora de Nazaré" />
+
+
+        <item
+            android:id="@+id/nav_menu7"
+            android:icon="@drawable/mconsagracoesazul"
+            android:title="Santissíma Virgem Maria" />
+
+    </group>
+
+
+</menu>

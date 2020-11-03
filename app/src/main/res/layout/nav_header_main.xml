@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:scrollbars="none">
+    <RelativeLayout
+        android:id="@+id/acb"
+        android:background="@drawable/bg_bar"
+        android:layout_width="match_parent"
+        android:layout_height="240dp">
+        <include layout="@layout/wave"></include>
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/linearLayout_login"
+        android:visibility="gone"
+        android:layout_marginTop="35dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:padding="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+              app:srcCompat="@drawable/mariauser"
+              android:layout_width="115dp"
+              android:layout_height="125dp"/>
+            <TextView
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:textSize="22sp"
+                android:layout_marginLeft="30dp"
+                android:textColor="@color/white"
+                style="@style/customfontstyle1"
+                android:fontFamily="@font/pacifico2"
+                android:text="@string/please_signin"
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:id="@+id/header_sign_in"
+                android:layout_gravity="left"
+                android:background="@drawable/raduis_button"
+                android:text="@string/login_button"
+                style="@style/customfontstyle1"
+                android:fontFamily="@font/pacifico"
+                android:textColor="#87a0e5"
+                android:textAllCaps="false"
+                android:textSize="12sp"
+                android:layout_width="20dp"
+                android:layout_height="20dp" />
+            <Button
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:id="@+id/header_sign_up"
+                android:layout_gravity="left"
+                android:background="@drawable/raduis_button"
+                android:text="@string/registre_button"
+                android:textColor="#87a0e5"
+                style="@style/customfontstyle1"
+                android:fontFamily="@font/pacifico"
+                android:textAllCaps="false"
+                android:textSize="12sp"
+                android:layout_width="20dp"
+                android:layout_height="20dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:visibility="visible"
+        android:layout_marginTop="35dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout_user">
+        <LinearLayout
+            android:padding="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                app:srcCompat="@drawable/mariauser"
+                android:layout_width="115dp"
+                android:layout_height="125dp"
+                android:id="@+id/imageView3" />
+            <TextView
+                android:layout_gravity="center"
+                android:id="@+id/header_text_view_name"
+                android:layout_margin="5dp"
+                android:textSize="22sp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="25dp"
+                android:textColor="@color/white"
+                style="@style/customfontstyle1"
+                android:text="Com Maria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="right"
+            android:weightSum="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:id="@+id/header_profile"
+                android:layout_margin="5dp"
+                android:background="@drawable/raduis_button"
+                android:text="Perfil"
+                android:textColor="#87a0e5"
+                style="@style/customfontstyle1"
+                android:fontFamily="@font/pacifico"
+                android:textAllCaps="false"
+                android:textSize="12sp"
+                android:layout_width="20dp"
+                android:layout_height="20dp" />
+            <Button
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:id="@+id/header_logout"
+                android:layout_margin="5dp"
+                android:background="@drawable/raduis_button"
+                android:text="Sair"
+                style="@style/customfontstyle1"
+                android:fontFamily="@font/pacifico"
+                android:textAllCaps="false"
+                android:textColor="#87a0e5"
+                android:textSize="12sp"
+                android:layout_width="20dp"
+                android:layout_height="20dp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

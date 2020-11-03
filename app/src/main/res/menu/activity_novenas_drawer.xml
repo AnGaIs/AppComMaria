@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+        android:id="@+id/nav_menu1"
+        android:icon="@drawable/depressao"
+        android:title="Contra Depressão" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/espiritosanto"
+            android:title="Espirito Santos" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/santo"
+            android:title="Frei Galvão" />
+
+        <item
+            android:id="@+id/nav_menu4"
+            android:icon="@drawable/comela"
+            android:title="Imaculada Conceição" />
+
+
+        <item
+            android:id="@+id/nav_menu5"
+            android:icon="@drawable/coracaoj"
+            android:title="Jesus Misericordiosos" />
+
+        <item
+            android:id="@+id/nav_menu6"
+            android:icon="@drawable/maosensa"
+            android:title="Mãos Ensanguentadas" />
+
+
+        <item
+            android:id="@+id/nav_menu7"
+            android:icon="@drawable/medalhamilagrosa"
+            android:title="Medalha Milagrosa" />
+
+        <item
+            android:id="@+id/nav_menu8"
+            android:icon="@drawable/medalhamilagrosa"
+            android:title="Medalha Milagrosa II" />
+        <item
+            android:id="@+id/nav_menu9"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora Aparecida" />
+        <item
+            android:id="@+id/nav_menu10"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora das Graças" />
+
+        <item
+            android:id="@+id/nav_menu11"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora das Mercês" />
+
+
+        <item
+            android:id="@+id/nav_menu12"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora Fátima" />
+
+        <item
+            android:id="@+id/nav_menu13"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora de Guadalupe" />
+
+
+        <item
+            android:id="@+id/nav_menu14"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora Desatadora de Nós" />
+
+        <item
+            android:id="@+id/nav_menu15"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora do Carmo" />
+        <item
+            android:id="@+id/nav_menu16"
+            android:icon="@drawable/comela"
+            android:title="Nossa Senhora Perpétuo Socorro" />
+        <item
+            android:id="@+id/nav_menu17"
+            android:icon="@drawable/almas"
+            android:title="Pelas Almas" />
+
+        <item
+            android:id="@+id/nav_menu18"
+            android:icon="@drawable/coracaoj"
+            android:title="Sagrado Coração de Jesus" />
+
+
+        <item
+            android:id="@+id/nav_menu19"
+            android:icon="@drawable/santa"
+            android:title="Santa Edith Stein" />
+
+        <item
+            android:id="@+id/nav_menu20"
+            android:icon="@drawable/santa"
+            android:title="Santa Marta" />
+
+
+        <item
+            android:id="@+id/nav_menu21"
+            android:icon="@drawable/santa"
+            android:title="Santa Mônica" />
+
+        <item
+            android:id="@+id/nav_menu22"
+            android:icon="@drawable/santa"
+            android:title="Santa Rita de Cássia" />
+        <item
+            android:id="@+id/nav_menu23"
+            android:icon="@drawable/santa"
+            android:title="Santa Terezinha" />
+        <item
+            android:id="@+id/nav_menu24"
+            android:icon="@drawable/santo"
+            android:title="Santo Expedito" />
+
+        <item
+            android:id="@+id/nav_menu25"
+            android:icon="@drawable/santo"
+            android:title="São José" />
+
+
+        <item
+            android:id="@+id/nav_menu26"
+            android:icon="@drawable/almas"
+            android:title="São Miguel Pela Purificação" />
+
+        <item
+            android:id="@+id/nav_menu27"
+            android:icon="@drawable/almas"
+            android:title="São Rafael" />
+
+
+    </group>
+
+
+</menu>

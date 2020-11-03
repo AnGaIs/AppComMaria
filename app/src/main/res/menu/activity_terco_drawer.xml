@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"/>
+    <item
+        android:id="@+id/nav_menu1"
+        android:icon="@drawable/comela"
+        android:title="Ave Maria" />
+    <item
+        android:id="@+id/nav_menu2"
+        android:icon="@drawable/cristo"
+        android:title="Batalha" />
+    <item
+        android:id="@+id/nav_menu3"
+        android:icon="@drawable/coracaoj"
+        android:title="Desagravo" />
+
+    <item
+        android:id="@+id/nav_menu4"
+        android:icon="@drawable/cruz"
+        android:title="Divina Misericórdia" />
+    <item
+        android:id="@+id/nav_menu16"
+        android:icon="@drawable/comela"
+        android:title="Imaculada Conceição" />
+    <item
+        android:id="@+id/nav_menu7"
+        android:icon="@drawable/comela"
+        android:title="Imaculado Coração" />
+
+    <item
+        android:id="@+id/nav_menu5"
+        android:icon="@drawable/cruz"
+        android:title="Lágrimas de Sangue" />
+
+    <item
+        android:id="@+id/nav_menu6"
+        android:icon="@drawable/cruz"
+        android:title="Libertação" />
+
+    <item
+        android:id="@+id/nav_menu8"
+        android:icon="@drawable/comela"
+        android:title="Nsa da Assunção" />
+    <item
+        android:id="@+id/nav_menu9"
+        android:icon="@drawable/comela"
+        android:title="Nsa das Graças" />
+    <item
+        android:id="@+id/nav_menu10"
+        android:icon="@drawable/comela"
+        android:title="Nsa Mãe de Jesus" />
+
+    <item
+        android:id="@+id/nav_menu11"
+        android:icon="@drawable/coracaoj"
+        android:title="Nsa S Sacramento" />
+
+
+    <item
+        android:id="@+id/nav_menu12"
+        android:icon="@drawable/oracaop"
+        android:title="Providêcia" />
+
+    <item
+        android:id="@+id/nav_menu13"
+        android:icon="@drawable/espiritosanto"
+        android:title="R Espírito Santo" />
+
+
+    <item
+        android:id="@+id/nav_menu14"
+        android:icon="@drawable/almas"
+        android:title="São Miguel" />
+
+    <item
+        android:id="@+id/nav_menu15"
+        android:icon="@drawable/comela"
+        android:title="Santas Chagas" />
+
+
+
+</menu>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"/>
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/comela"
+            android:title="Alegra-te Maria" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/almas"
+            android:title="Ângelus" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/comela"
+            android:title="Ato de Consagração" />
+
+        <item
+            android:id="@+id/nav_menu4"
+            android:icon="@drawable/comela"
+            android:title="Ave Maria" />
+
+
+        <item
+            android:id="@+id/nav_menu5"
+            android:icon="@drawable/comela"
+            android:title="Ave Maris Stella" />
+
+        <item
+            android:id="@+id/nav_menu6"
+            android:icon="@drawable/comela"
+            android:title="Á Vossa Proteção" />
+
+
+        <item
+            android:id="@+id/nav_menu7"
+            android:icon="@drawable/comela"
+            android:title="Diante das Tentações" />
+        <item
+            android:id="@+id/nav_menu13"
+            android:icon="@drawable/comela"
+            android:title="Diante da Pobreza" />
+
+        <item
+            android:id="@+id/nav_menu8"
+            android:icon="@drawable/comela"
+            android:title="Luz do Peregrinar" />
+        <item
+            android:id="@+id/nav_menu9"
+            android:icon="@drawable/comela"
+            android:title="Mãe da Confiança" />
+        <item
+            android:id="@+id/nav_menu16"
+            android:icon="@drawable/comela"
+            android:title="No Horizonte" />
+        <item
+            android:id="@+id/nav_menu10"
+            android:icon="@drawable/comela"
+            android:title="Oração do Fiat" />
+
+        <item
+            android:id="@+id/nav_menu11"
+            android:icon="@drawable/oracaop"
+            android:title="Pedindo Fortaleza" />
+
+
+        <item
+            android:id="@+id/nav_menu12"
+            android:icon="@drawable/oracaop"
+            android:title="Pedíndo Paciência" />
+
+
+        <item
+            android:id="@+id/nav_menu14"
+            android:icon="@drawable/comela"
+            android:title="Raínha do Céu" />
+
+        <item
+            android:id="@+id/nav_menu15"
+            android:icon="@drawable/comela"
+            android:title="Salve Rainha" />
+
+
+</menu>
